@@ -1,0 +1,7 @@
+{
+  "name": "usaquen",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
